@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WenqiaoXA3</string>
+    <string name="butA">Pressed: A</string>
+    <string name="butB">Pressed: B</string>
+    <string name="butC">Pressed: C</string>
+    <string name="butD">Pressed: D</string>
+    <string name="butE">Pressed: E</string>
+    <string name="butF">Pressed: F</string>
+    <string name="listHeader">List of URLs</string>
+</resources>
